@@ -1,5 +1,13 @@
 # @nextui-org/react
 
+## 2.4.2
+
+### Patch Changes
+
+- Updated dependencies [[`68d1629e7`](https://github.com/nextui-org/nextui/commit/68d1629e778723c85825463ef0d2cdd66c1a4aff)]:
+  - @nextui-org/pagination@2.0.33
+  - @nextui-org/table@2.0.35
+
 ## 2.4.1
 
 ### Patch Changes

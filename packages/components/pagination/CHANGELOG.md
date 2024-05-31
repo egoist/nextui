@@ -1,5 +1,11 @@
 # @nextui-org/pagination
 
+## 2.0.33
+
+### Patch Changes
+
+- [#3144](https://github.com/nextui-org/nextui/pull/3144) [`68d1629e7`](https://github.com/nextui-org/nextui/commit/68d1629e778723c85825463ef0d2cdd66c1a4aff) Thanks [@wingkwong](https://github.com/wingkwong)! - Fixed pagination missing animation (#3138)
+
 ## 2.0.32
 
 ### Patch Changes
